@@ -1,7 +1,7 @@
 // ========================================================================
 //  🔸 M U L T I S T E P P E R  -  N O N   B L O C K I N G   A N G L E 🔸
 // ========================================================================
-//  Archivo    : STEPPER.ino
+//  Archivo    : STEPPER--MultiStepper_non_blocking_angle.ino
 //  Autor      : Klaus Michalsky
 //  Fecha      : Feb-2026
 //
